@@ -1,0 +1,23 @@
+body{
+    background: #CAD5E2;
+}
+button.btn{
+    border: none;
+    background: #CAD5E2;
+}
+span.btn-text-one{
+    
+    position: absolute ;
+    left: 700px;
+   
+    top: 400px;
+    padding: 25px 90px;
+background:#0d375e;
+color: #ffffff;
+font-size: 40px;
+font-family: "Josefin+Sans";
+border-radius: 90px;
+
+box-shadow: 0px 30px 120px 2px #333536;
+
+}

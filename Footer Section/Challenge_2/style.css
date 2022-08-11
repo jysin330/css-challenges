@@ -1,0 +1,132 @@
+*{
+    margin: 0px;
+}
+footer{
+    padding-top: 120px;
+}
+.content{
+    
+    padding-top: 310px;
+   
+}
+.content .top{
+ 
+ display: flex;
+ font-size: 60px;
+ 
+ margin-top: 30px;
+ 
+ padding: 15px;
+ background: #0e0e5e;
+ border-bottom: 2px solid #ffffff;
+ 
+}
+.top .logo-details{
+
+    width: 50%;
+    color: #ffffff;
+    padding-top: 10px;
+   padding-left: 100px;
+}
+.top .media-icons{
+    
+      width: 50%;
+      block-size: 50px;
+     text-align: right;
+     /* padding-right: 100px; */
+     color: #ffffff;
+     padding: 20px 40px;
+     
+     font-size: 30px;
+     
+}
+.media-icons a i.fa-facebook-f{
+        color: #ffffff;
+   background-color: #050586;
+   padding: 10px  15px;
+   border-radius:100px;
+   margin-right:10px;
+    
+}
+.media-icons a i.fa-twitter{
+        color: #ffffff;
+    background: #5DA3FA;
+    padding: 10px 10px;
+    border-radius:100px;
+    margin-right:10px;
+
+}
+.media-icons a i.fa-instagram{
+        color: #ffffff;
+    background: #B9345A;
+    padding: 10px 10px;
+    border-radius:100px;
+    margin-right:10px;
+}
+.media-icons a i.fa-linkedin-in{
+        color: #ffffff;
+    background: #0e66d3;
+    padding: 10px 13px;
+    border-radius:100px;
+    margin-right:10px;
+    /* filter: invert(); */
+
+}
+.media-icons a i.fa-youtube{
+        font-size: 30px;
+    color: #ffffff
+    ; padding: 6px 6px;
+    background: #cf0e0e;
+    border-radius:100px;
+    margin-right:40px;
+    /* filter: invert(); */
+
+}
+.content .link-boxes{
+    
+    display: flex;
+    
+    flex-wrap: wrap;
+    background: #0e0e5e;
+    justify-content: center;
+    padding: 65px;
+    color: #ffffff;
+    font-size: 30px;
+    justify-content: space-around;
+    
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 17px;
+   
+}
+
+ul.box{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+ul.input-box li input{
+       block-size: 30px;
+       border-radius: 7px;
+       font-size: 17px;
+}
+.bottom_text{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+    color: #ffffff;
+    background: #05053f;
+   align-items: center;
+   font-size: 20px;
+   height: 100px;
+}
+span.copyright_text a{
+    margin-right: 30px;
+}
+span.policy_terms a{
+    margin: 20px;
+   
+}

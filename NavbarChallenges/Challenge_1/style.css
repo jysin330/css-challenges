@@ -1,0 +1,21 @@
+nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 2px solid;
+    color: #758283;
+    background: #1f1f1f;
+    border-radius: 25px;
+    font-size: 35px;
+    margin: 500px;
+    font-weight: bold;
+    padding: 20px 10px;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: #758283;
+}
+a:hover{
+    color: #02ffb7;
+}

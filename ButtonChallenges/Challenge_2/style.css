@@ -1,0 +1,17 @@
+body{
+    background: #1f1f1f;
+}
+button.btn{
+    position: absolute;
+    /* display: block; */
+    left: 850px;
+    top: 450px;
+    text-align: center;
+    border-radius: 12px;
+   padding: 20px 30px;
+    font-size: 14px;
+    background: #1f1f1f;
+    color: #ffffff;
+    border: 2px solid #C7C11A;
+    box-shadow: 0px 0px 10px 1px #C7C11A;
+}
